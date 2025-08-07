@@ -10,6 +10,7 @@ from database.database_conn import get_db_connection
 from service.buildings_service import update_all_buildings_info_batch
 
 from service.collision_service import get_collision_buildings_info
+from service.buildings_service_file import insert_buildings_from_file
 from utils.logger import logger
 
 # 获取当前文件所在目录的上一级目录
@@ -91,3 +92,35 @@ async def collision_info(
                 "message": f"检测碰撞时发生错误: {str(e)}"
             }
         )
+@app.post("/insert_buildings_info")
+async def insert_buildings_info(
+    file_path: str = Query(..., description="文件路径）"),
+):
+    """
+     导入建筑物信息
+    """
+    try:
+
+        logger.info(f"文件路径:{file_path}")
+
+        # 使用原有逻辑进行碰撞检测
+        with get_db_connection() as conn:
+            result = insert_buildings_from_file(conn,file_path)
+
+        if result:
+            return result
+
+        return {
+            "success": False,
+            "code": 500,
+            "errorMsg": "未知错误"
+        }
+
+    except Exception as e:
+        logger.error(f"导入建筑物信息发生错误: {str(e)}")
+
+        return {
+            "success": False,
+            "code": 501,
+            "errorMsg": "导入时发生异常"
+        }

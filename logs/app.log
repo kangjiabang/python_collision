@@ -76668,3 +76668,163 @@ LINE 11:
             AND 50.0 < building_height
     
 2025-08-06 10:42:48,618 - INFO - Database query executed in 0.0150 seconds
+2025-08-07 14:35:09,161 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.development
+2025-08-07 14:35:09,162 - INFO - 数据库连接字符串: dbname=nyc user=postgres password=123456 host=localhost port=5432
+2025-08-07 14:36:54,002 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.development
+2025-08-07 14:36:54,002 - INFO - 数据库连接字符串: dbname=nyc user=postgres password=123456 host=localhost port=5432
+2025-08-07 14:37:01,857 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.development
+2025-08-07 14:37:01,858 - INFO - 数据库连接字符串: dbname=nyc user=postgres password=123456 host=localhost port=5432
+2025-08-07 14:37:05,711 - INFO - 文件路径:xx
+2025-08-07 14:38:00,850 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.development
+2025-08-07 14:38:00,852 - INFO - 数据库连接字符串: dbname=nyc user=postgres password=123456 host=localhost port=5432
+2025-08-07 14:38:38,812 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.development
+2025-08-07 14:38:38,813 - INFO - 数据库连接字符串: dbname=nyc user=postgres password=123456 host=localhost port=5432
+2025-08-07 14:40:07,444 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.development
+2025-08-07 14:40:07,445 - INFO - 数据库连接字符串: dbname=nyc user=postgres password=123456 host=localhost port=5432
+2025-08-07 14:40:11,045 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.development
+2025-08-07 14:40:11,046 - INFO - 数据库连接字符串: dbname=nyc user=postgres password=123456 host=localhost port=5432
+2025-08-07 14:40:25,589 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.development
+2025-08-07 14:40:25,589 - INFO - 数据库连接字符串: dbname=nyc user=postgres password=123456 host=localhost port=5432
+2025-08-07 14:40:37,356 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.development
+2025-08-07 14:40:37,357 - INFO - 数据库连接字符串: dbname=nyc user=postgres password=123456 host=localhost port=5432
+2025-08-07 14:42:12,088 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.development
+2025-08-07 14:42:12,089 - INFO - 数据库连接字符串: dbname=nyc user=postgres password=123456 host=localhost port=5432
+2025-08-07 14:42:29,817 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.development
+2025-08-07 14:42:29,818 - INFO - 数据库连接字符串: dbname=nyc user=postgres password=123456 host=localhost port=5432
+2025-08-07 14:42:32,166 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.development
+2025-08-07 14:42:32,166 - INFO - 数据库连接字符串: dbname=nyc user=postgres password=123456 host=localhost port=5432
+2025-08-07 14:42:38,867 - INFO - 文件路径:xx
+2025-08-07 14:43:13,816 - INFO - 文件路径:/Users/jiabangkang/Documents/code/cesium/cesium-collision-api/buildings_output.txt
+2025-08-07 14:44:04,107 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.development
+2025-08-07 14:44:04,107 - INFO - 数据库连接字符串: dbname=nyc user=postgres password=123456 host=localhost port=5432
+2025-08-07 14:44:10,811 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.development
+2025-08-07 14:44:10,812 - INFO - 数据库连接字符串: dbname=nyc user=postgres password=123456 host=localhost port=5432
+2025-08-07 14:44:15,358 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.development
+2025-08-07 14:44:15,358 - INFO - 数据库连接字符串: dbname=nyc user=postgres password=123456 host=localhost port=5432
+2025-08-07 14:44:41,464 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.development
+2025-08-07 14:44:41,465 - INFO - 数据库连接字符串: dbname=nyc user=postgres password=123456 host=localhost port=5432
+2025-08-07 14:45:01,621 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.development
+2025-08-07 14:45:01,622 - INFO - 数据库连接字符串: dbname=nyc user=postgres password=123456 host=localhost port=5432
+2025-08-07 14:45:07,524 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.development
+2025-08-07 14:45:07,525 - INFO - 数据库连接字符串: dbname=nyc user=postgres password=123456 host=localhost port=5432
+2025-08-07 14:45:10,868 - INFO - 文件路径:/Users/jiabangkang/Documents/code/cesium/cesium-collision-api/buildings_output.txt
+2025-08-07 14:45:15,828 - INFO - 文件路径:/Users/jiabangkang/Documents/code/cesium/cesium-collision-api/buildings_output.txt1
+2025-08-07 14:45:35,552 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.development
+2025-08-07 14:45:35,553 - INFO - 数据库连接字符串: dbname=nyc user=postgres password=123456 host=localhost port=5432
+2025-08-07 14:47:46,729 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.test
+2025-08-07 14:47:46,730 - INFO - 数据库连接字符串: dbname=hzdk_buildings user=postgres password=Hzdk123456 host=localhost port=5432
+2025-08-07 14:48:01,877 - INFO - 文件路径:/Users/jiabangkang/Documents/code/cesium/cesium-collision-api/buildings_output.txt
+2025-08-07 14:48:01,910 - ERROR - 导入建筑物信息发生错误: connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "hzdk_buildings" does not exist
+
+2025-08-07 14:59:48,608 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.test
+2025-08-07 14:59:48,609 - INFO - 数据库连接字符串: dbname=hzdk_buildings user=postgres password=Hzdk123456 host=192.168.4.78 port=5432
+2025-08-07 14:59:58,597 - INFO - 文件路径:/Users/jiabangkang/Documents/code/cesium/cesium-collision-api/buildings_output.txt
+2025-08-07 15:00:24,516 - ERROR - 导入建筑物信息发生错误: connection to server at "192.168.4.78", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-08-07 15:15:00,514 - INFO - 文件路径:/Users/jiabangkang/Documents/code/cesium/cesium-collision-api/buildings_output.txt
+2025-08-07 15:15:26,434 - ERROR - 导入建筑物信息发生错误: connection to server at "192.168.4.78", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-08-07 15:17:43,835 - INFO - 文件路径:/Users/jiabangkang/Documents/code/cesium/cesium-collision-api/buildings_output.txt
+2025-08-07 15:18:09,747 - ERROR - 导入建筑物信息发生错误: connection to server at "192.168.4.78", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-08-07 15:20:14,076 - INFO - 文件路径:/Users/jiabangkang/Documents/code/cesium/cesium-collision-api/buildings_output.txt
+2025-08-07 15:20:39,991 - ERROR - 导入建筑物信息发生错误: connection to server at "192.168.4.78", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-08-07 15:32:19,831 - INFO - 文件路径:/Users/jiabangkang/Documents/code/cesium/cesium-collision-api/buildings_output.txt
+2025-08-07 15:32:19,923 - ERROR - 导入建筑物信息发生错误: 'utf-8' codec can't decode byte 0xd6 in position 58: invalid continuation byte
+2025-08-07 15:35:27,222 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.test
+2025-08-07 15:35:27,223 - INFO - 数据库连接字符串: dbname=hzdk_buildings user=postgres password=Hzdk123456 host=192.168.4.78 port=5432
+2025-08-07 15:35:31,352 - INFO - 文件路径:/Users/jiabangkang/Documents/code/cesium/cesium-collision-api/buildings_output.txt
+2025-08-07 15:35:31,429 - ERROR - 导入建筑物信息发生错误: 'utf-8' codec can't decode byte 0xd6 in position 58: invalid continuation byte
+2025-08-07 15:36:41,007 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.test
+2025-08-07 15:36:41,008 - INFO - 数据库连接字符串: dbname=hzdk_buildings user=postgres password=Hzdk123456 host=192.168.4.78 port=5432
+2025-08-07 15:36:45,861 - INFO - 文件路径:/Users/jiabangkang/Documents/code/cesium/cesium-collision-api/buildings_output.txt
+2025-08-07 15:36:45,939 - ERROR - 导入建筑物信息发生错误: 'utf-8' codec can't decode byte 0xd6 in position 58: invalid continuation byte
+2025-08-07 15:36:53,449 - INFO - 文件路径:/Users/jiabangkang/Documents/code/cesium/cesium-collision-api/buildings_output.txt
+2025-08-07 15:36:53,549 - ERROR - 导入建筑物信息发生错误: 'utf-8' codec can't decode byte 0xd6 in position 58: invalid continuation byte
+2025-08-07 15:37:51,533 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.development
+2025-08-07 15:37:51,534 - INFO - 数据库连接字符串: dbname=nyc user=postgres password=123456 host=localhost port=5432
+2025-08-07 15:37:54,998 - INFO - 文件路径:/Users/jiabangkang/Documents/code/cesium/cesium-collision-api/buildings_output.txt
+2025-08-07 15:38:20,945 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.test
+2025-08-07 15:38:20,946 - INFO - 数据库连接字符串: dbname=hzdk_buildings user=postgres password=Hzdk123456 host=192.168.4.78 port=5432
+2025-08-07 15:38:23,416 - INFO - 文件路径:/Users/jiabangkang/Documents/code/cesium/cesium-collision-api/buildings_output.txt
+2025-08-07 15:38:23,508 - ERROR - 导入建筑物信息发生错误: 'utf-8' codec can't decode byte 0xd6 in position 58: invalid continuation byte
+2025-08-07 15:38:42,957 - INFO - 文件路径:/Users/jiabangkang/Documents/code/cesium/cesium-collision-api/buildings_output.txt
+2025-08-07 15:38:43,059 - ERROR - 导入建筑物信息发生错误: 'utf-8' codec can't decode byte 0xd6 in position 58: invalid continuation byte
+2025-08-07 15:39:49,916 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.development
+2025-08-07 15:39:49,919 - INFO - 数据库连接字符串: dbname=nyc user=postgres password=123456 host=localhost port=5432
+2025-08-07 15:39:58,496 - INFO - 文件路径:/Users/jiabangkang/Documents/code/cesium/cesium-collision-api/buildings_output.txt
+2025-08-07 15:41:38,977 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.development
+2025-08-07 15:41:38,980 - INFO - 数据库连接字符串: dbname=nyc user=postgres password=123456 host=localhost port=5432
+2025-08-07 15:41:49,298 - INFO - 文件路径:/Users/jiabangkang/Documents/code/cesium/cesium-collision-api/buildings_output.txt
+2025-08-07 15:42:59,927 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.test
+2025-08-07 15:42:59,930 - INFO - 数据库连接字符串: dbname=hzdk_buildings user=postgres password=Hzdk123456 host=192.168.4.78 port=5432
+2025-08-07 15:43:25,415 - INFO - 文件路径:/Users/jiabangkang/Documents/code/cesium/cesium-collision-api/buildings_output.txt
+2025-08-07 15:43:25,511 - ERROR - 导入建筑物信息发生错误: 'utf-8' codec can't decode byte 0xd6 in position 58: invalid continuation byte
+2025-08-07 15:43:55,989 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.test
+2025-08-07 15:43:55,992 - INFO - 数据库连接字符串: dbname=hzdk_buildings user=postgres password=Hzdk123456 host=192.168.4.78 port=5432
+2025-08-07 15:44:01,042 - INFO - 文件路径:/Users/jiabangkang/Documents/code/cesium/cesium-collision-api/buildings_output.txt
+2025-08-07 15:44:01,131 - ERROR - 导入建筑物信息发生错误: 'utf-8' codec can't decode byte 0xd6 in position 58: invalid continuation byte
+2025-08-07 15:44:12,776 - INFO - 文件路径:/Users/jiabangkang/Documents/code/cesium/cesium-collision-api/buildings_output.txt
+2025-08-07 15:44:28,163 - ERROR - 导入建筑物信息发生错误: 'utf-8' codec can't decode byte 0xd6 in position 58: invalid continuation byte
+2025-08-07 15:47:14,571 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.test
+2025-08-07 15:47:14,574 - INFO - 数据库连接字符串: dbname=hzdk_buildings user=postgres password=Hzdk123456 host=192.168.4.78 port=5432
+2025-08-07 15:47:19,511 - INFO - 文件路径:/Users/jiabangkang/Documents/code/cesium/cesium-collision-api/buildings_output.txt
+2025-08-07 15:47:22,426 - ERROR - 导入建筑物信息发生错误: 'utf-8' codec can't decode byte 0xd6 in position 58: invalid continuation byte
+2025-08-07 16:00:32,824 - INFO - 文件路径:/Users/jiabangkang/Documents/code/cesium/cesium-collision-api/buildings_output.txt
+2025-08-07 16:02:22,857 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.test
+2025-08-07 16:02:22,859 - INFO - 数据库连接字符串: dbname=hzdk_buildings user=postgres password=Hzdk123456 host=192.168.4.78 port=5432
+2025-08-07 16:02:26,876 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.test
+2025-08-07 16:02:26,879 - INFO - 数据库连接字符串: dbname=hzdk_buildings user=postgres password=Hzdk123456 host=192.168.4.78 port=5432
+2025-08-07 16:02:35,719 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.test
+2025-08-07 16:02:35,721 - INFO - 数据库连接字符串: dbname=hzdk_buildings user=postgres password=Hzdk123456 host=192.168.4.78 port=5432
+2025-08-07 16:02:40,104 - INFO - 文件路径:/Users/jiabangkang/Documents/code/cesium/cesium-collision-api/buildings_output.txt
+2025-08-07 16:02:55,754 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.test
+2025-08-07 16:02:55,756 - INFO - 数据库连接字符串: dbname=hzdk_buildings user=postgres password=Hzdk123456 host=192.168.4.78 port=5432
+2025-08-07 16:02:58,717 - INFO - 文件路径:/Users/jiabangkang/Documents/code/cesium/cesium-collision-api/buildings_output.txt
+2025-08-07 16:21:06,186 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.development
+2025-08-07 16:21:06,187 - INFO - 数据库连接字符串: dbname=nyc user=postgres password=123456 host=localhost port=5432
+2025-08-07 16:21:10,620 - INFO - 文件路径:/Users/jiabangkang/Documents/code/cesium/cesium-collision-api/buildings_output.txt
+2025-08-07 16:23:32,032 - INFO - 文件路径:/Users/jiabangkang/Documents/code/cesium/cesium-collision-api/buildings_output.txt
+2025-08-07 16:25:06,242 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.test
+2025-08-07 16:25:06,244 - INFO - 数据库连接字符串: dbname=hzdk_buildings user=postgres password=Hzdk123456 host=192.168.4.78 port=5432
+2025-08-07 16:25:11,888 - INFO - 文件路径:/Users/jiabangkang/Documents/code/cesium/cesium-collision-api/buildings_output.txt
+2025-08-07 16:26:06,645 - INFO - 经纬度和高度: 119.99806, 30.282778, 50.0, 碰撞距离: 10.0
+2025-08-07 16:26:06,769 - INFO - Executing SQL:
+
+        SELECT 
+            osm_id, name, ST_AsText(geom) AS geom, building_height
+        FROM 
+            hz_yuhang_buildings
+        WHERE 
+            ST_DWithin(
+                geom::geography, 
+                ST_SetSRID(ST_MakePoint(119.99806, 30.282778), 4326)::geography, 10.0)
+            AND 50.0 < building_height
+    
+2025-08-07 16:26:06,790 - ERROR - 检测碰撞时发生错误: 错误:  关系 "hz_yuhang_buildings" 不存在
+LINE 5:             hz_yuhang_buildings
+                    ^
+
+2025-08-07 16:36:54,487 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.test
+2025-08-07 16:36:54,488 - INFO - 数据库连接字符串: dbname=hzdk_buildings user=postgres password=Hzdk123456 host=192.168.4.78 port=5432
+2025-08-07 16:37:00,320 - INFO - 加载环境变量文件: /Users/jiabangkang/Documents/code/Buildings_Info/.env.test
+2025-08-07 16:37:00,321 - INFO - 数据库连接字符串: dbname=hzdk_buildings user=postgres password=Hzdk123456 host=192.168.4.78 port=5432
+2025-08-07 16:37:04,505 - INFO - 经纬度和高度: 119.99806, 30.282778, 50.0, 碰撞距离: 10.0
+2025-08-07 16:37:04,637 - INFO - Executing SQL:
+
+        SELECT 
+            building_id, building_name, ST_AsText(geom) AS geom, building_height
+        FROM 
+            hzdk_buildings
+        WHERE 
+            ST_DWithin(
+                geom::geography, 
+                ST_SetSRID(ST_MakePoint(119.99806, 30.282778), 4326)::geography,10.0)
+            AND 50.0 < building_height
+    
+2025-08-07 16:37:04,688 - INFO - Database query executed in 0.0514 seconds

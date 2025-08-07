@@ -42,6 +42,7 @@ def get_db_connection() -> ContextManager[psycopg2.extensions.connection]:
     conn = None
     try:
         conn = psycopg2.connect(DB_CONN_STRING, cursor_factory=RealDictCursor)
+        conn.set_client_encoding('UTF8')
         yield conn
     except Exception as e:
         print(f"❌ 数据库连接失败: {e}")
