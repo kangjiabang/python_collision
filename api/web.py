@@ -17,8 +17,34 @@ from utils.logger import logger
 parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(parent_dir)
 
-app = FastAPI(title="3D Building Collision Detector", openapi_prefix="/api/v1")
+from database.database_conn import init_connection_pool, close_connection_pool # 导入初始化和关闭函数
 
+# --- 初始化连接池 ---
+# 在创建 FastAPI 应用实例之前调用
+try:
+    init_connection_pool()
+except Exception as e:
+    # 如果连接池初始化失败，应用可能无法正常工作
+    print(f"Failed to initialize database connection pool: {e}")
+    # 根据你的错误处理策略，可以选择退出应用
+    # sys.exit(1) # 取消注释以在初始化失败时退出
+    raise # 或者重新抛出异常
+
+
+from contextlib import asynccontextmanager
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    # 启动时的逻辑 (已经移到上面了，但如果需要在 lifespan 内部做，可以放这里)
+    # init_connection_pool() # 如果上面没有调用，可以在这里调用
+    print("Application startup complete.")
+    yield # 应用运行期间
+    # 关闭时的逻辑
+    close_connection_pool()
+    print("Application shutdown complete.")
+
+# 使用 lifespan 参数创建 FastAPI 应用
+app = FastAPI(title="3D Building Collision Detector", openapi_prefix="/api/v1", lifespan=lifespan)
 @app.post("/update_buildings_info")
 async def update_buildings_info ():
     """
